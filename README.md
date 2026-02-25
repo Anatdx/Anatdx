@@ -27,8 +27,11 @@ I am currently traversing through the digital canvas, piecing together magic and
 #### 🌙 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anatdx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Anan's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anatdx&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anatdx/Anatdx/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anatdx/Anatdx/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Anatdx/Anatdx/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
