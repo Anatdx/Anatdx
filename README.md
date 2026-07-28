@@ -28,6 +28,9 @@
 
 #### 🌙 GitHub Stats
 
+[![Anatdx's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=Anatdx&show_icons=true&hide_border=true&bg_color=00000000&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anatdx's Top language](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Anatdx&hide_border=true&layout=compact&langs_count=6&bg_color=00000000&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anatdx/Anatdx/output/github-contribution-grid-snake-dark.svg">
